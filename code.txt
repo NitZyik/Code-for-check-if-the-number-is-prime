@@ -6,8 +6,3 @@ public boolean isPrime(a){
 			return false
 	}
 }
-
-
-
-
-
